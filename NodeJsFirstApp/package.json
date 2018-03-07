@@ -1,0 +1,9 @@
+{
+  "name": "node-js-first-app",
+  "version": "0.0.0",
+  "description": "NodeJsFirstApp",
+  "main": "app.js",
+  "author": {
+    "name": "nhchon"
+  }
+}
